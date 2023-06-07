@@ -9,6 +9,9 @@
 - 👨‍💻 Cuento con experiencia en proyectos utilizando tecnologias como JavaScript, React.js, Redux, Node.js, Express, PostgreSQL, entre otras.  
   
 
+- 🔙  Background en Ingenieria Electronica y Telecomunicaciones que me ha ayudado a desarrollar mis habilidades para abordar problemas y generar solciones, trabajo en equipo, pensamiento critico, actulizacion constante, entre otras.  
+  
+
 - 🌱 Actualmente estoy aprendiendo Python y Flutter  
   
 
@@ -67,10 +70,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastian-mayor/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/sebastianmayor.m" target="_blank">
+<a href="https://www.facebook.com/sebastianmayor.m" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/sm_dev06/" target="_blank">
+<a href="https://instagram.com/sm_dev06" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
